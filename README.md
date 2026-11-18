@@ -36,6 +36,8 @@ Os programas foram organizados entre atividades práticas e Programas para Casa 
 | 07 | Gauss-Seidel | Distribuição de temperatura em uma placa bidimensional |
 | 08 | Método de Müller | Determinação da profundidade crítica em canal trapezoidal |
 | 09 | Otimização Numérica | Determinação da espessura ótima de isolamento térmico |
+| 10 | Bisseção | Oficina de utilização do sistema linux |
+| 09 | Otimização em Fortran | Oficina de utilização do sistema linux |
 
 ## Programas para Casa (PPCs)
 
