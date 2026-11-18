@@ -19,6 +19,7 @@ Os programas foram organizados entre atividades práticas e Programas para Casa 
 ## Tecnologias utilizadas
 
 - Python 3
+- Fortran 90
 - NumPy
 - Matplotlib
 - SciPy (quando aplicável)
