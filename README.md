@@ -63,6 +63,8 @@ calculo-numerico-aplicado/
 |   |-- 07_gauss_seidel_placa_2d.py
 |   |-- 08_muller_canal_critico.py
 |   |-- 09_otimizacao_isolamento_termico.py
+|   |-- bissecaolinux.py
+|   |-- otimizacao.f90
 |
 |-- PPCs/
 |   |-- 10_PPC1_Runge_Kutta.py
